@@ -9,10 +9,10 @@ Suited to the hardened writer, the mobile hacker and the executive types we see 
 This makes for a machine with a look and ergonomics sense from the 90s, with a decent battery life, with a great adaptability and hackability, and one which works (particularly on text) as effectively in bright suns as in dark caverns.
 
 |![](media/cyberDeck_2022_Brandenburg_1.jpg)|![](media/cyberDeck_2022_Brandenburg_2.jpg)|
-|:---:|:---:|:---:|
+|:---:|:---:|
 
 |![](media/cyberDeck_2022_Clyde_1.jpg)|![](media/cyberDeck_2022_Dowanhill_1.jpg)|
-|:---:|:---:|:---:|
+|:---:|:---:|
 
 # components and construction
 
